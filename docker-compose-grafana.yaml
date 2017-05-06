@@ -3,7 +3,7 @@ version: '2'
 services:
   # ############ Performance monitoring ###########################################
   influxsrv:
-      image: tutum/influxdb
+      image: tutum/influxdb #:0.9.6.1
       container_name: influxsrv
       volumes:
         - ./.data/influxdb:/data
