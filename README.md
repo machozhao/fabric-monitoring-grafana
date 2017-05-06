@@ -27,4 +27,8 @@ InfluxDB details: database: cadvisor, user: root, password: root
 Import databoard json file: grafana-dashboard/docker-monitoring.json
 ```
 !["Import a dashboard"](https://github.com/machozhao/fabric-monitoring-grafana/raw/master/docs/images/p3.grafana.import.dashboard.png)
-*Fig. 2: Import a dashboard*
+*Fig. 3: Import a dashboard*
+
+### Access dashboard
+!["Import a dashboard"](https://github.com/machozhao/fabric-monitoring-grafana/raw/master/docs/images/p4.grafana.dashboard.png)
+*Fig. 4: Access dashboard*
